@@ -18,7 +18,7 @@
 <p align="left">
   • <strong>Languages :</strong> C · Python · Java · OCaml <br>
   • <strong>Concepts :</strong> Algorithms · Automata · Signal Processing (LMS/ALE) · Numerical Methods <br>
-  • <strong>Tools :</strong> Git · Linux · VS Code · LaTeX
+  • <strong>Tools :</strong> Git · Linux · VS Code · IntelliJ
 </p>
 
 ---
